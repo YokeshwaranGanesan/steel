@@ -1,9 +1,5 @@
 Flask
-tensorflow
-keras
 numpy
-opencv_python
-pandas
-requests
-Werkzeug
+Pillow
+tensorflow
 gunicorn
